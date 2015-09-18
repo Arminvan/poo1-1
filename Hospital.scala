@@ -1,0 +1,11 @@
+println("presupuesto anual en un hospital")
+
+println("ingresa presupuesto Mensual")
+val pre = readInt()
+println("presupuesto para GINECOLOGIA")
+println(pre*0.40)
+println("presupuesto para TRAUMATOLOGIA")
+println(pre*0.30)
+println("presupuesto para PEDIATRIA")
+println(pre*0.30)
+println("FINAL")
